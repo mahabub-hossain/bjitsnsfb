@@ -1,0 +1,18 @@
+{
+    "name": "bjit/snsfacebook",
+    "description": "This is a facebook authentication library.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mahabub-hossain",
+            "email": "mahbubsprint310@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BJIT\\": "src/"
+        }
+    },
+    "require": {}
+}
